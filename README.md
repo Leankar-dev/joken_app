@@ -1,6 +1,6 @@
 # joken_app
 
-A new Flutter project.
+JokenPo game base app
 
 ## Getting Started
 
